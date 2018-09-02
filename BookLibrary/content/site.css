@@ -1,0 +1,90 @@
+.menu ul {
+    list-style-type: none'
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+header, footer {
+    text-align: center
+}
+
+.container {
+    text-align: center
+}
+
+.error {
+    color: red;
+}
+
+
+   
+  input {
+    border: 5px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+    
+}
+
+.input
+{
+    display: block;
+    text-align: right;
+}
+form
+{
+    size: 200px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+}
+.submit {
+ align-content: center;
+}
+
+.main-bar{
+    border: 5px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background:rgba(61, 182, 212, 0.637);
+    margin: 0 0 10px 0;
+}
+
+a {
+    color: black; 
+    font-style: inherit;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 3px solid white;
+    border-block-end-style: inherit; 
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+  }
+
+  .all-books{
+      text-decoration-color: black;
+      text-emphasis-color: black;
+  }

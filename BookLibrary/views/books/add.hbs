@@ -1,0 +1,24 @@
+<div class="error">
+    {{error}}
+</div>
+
+<form method="POST">
+    <div class="input">
+        Title:
+    <input type="text" name="title" value="{{title}}"/>
+    </div>
+    <div class="input">
+        Author:
+    <input type="text" name="author" value="{{author}}"/>
+    </div>
+    <div class="input">
+        Release Date:
+    <input type="date" name="releaseDate" {{releaseDate}}/>
+    </div>
+    <div class="input">
+        Image URL
+    <input type="url" name="imageUrl" {{imageUrl}}/>
+    </div>
+    <br />
+    <input type="submit" class="submit"/>
+</form>
